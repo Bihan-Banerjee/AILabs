@@ -3,3 +3,35 @@ A Version Control System (VCS) is a tool that helps developers track and manage 
 With Git, every change made to the codebase is recorded in a repository. Developers can create branches to experiment or add new features independently, then merge them back into the main code when ready. This ensures code stability, encourages collaboration, and allows easy rollback to previous versions in case of errors.
 
 Git also integrates well with platforms like GitHub, GitLab, and Bitbucket, making remote collaboration seamless and efficient. In essence, Git is a powerful tool that brings organization, traceability, and teamwork to modern software development.
+
+Some Basic Git Commands and Their Uses:
+
+git init
+Initializes a new Git repository in the current directory.
+
+git clone <repo-url>
+Creates a local copy of a remote repository.
+
+git status
+Shows the current state of the working directory and staging area.
+
+git add <filename> or git add .
+Adds changes to the staging area.
+
+git commit -m "your message"
+Saves the staged changes to the local repository with a descriptive message.
+
+git push
+Sends our committed changes to the remote repository.
+
+git pull
+Fetches and merges changes from the remote repository into our local branch.
+
+git branch
+Lists all branches in our repo.
+
+git checkout -b <branch-name>
+Creates and switches to a new branch.
+
+git merge <branch-name>
+Merges the specified branch into our current branch.
