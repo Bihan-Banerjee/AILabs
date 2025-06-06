@@ -1,0 +1,32 @@
+Class Notes 5/6/25
+
+Framing ML:
+
+->outcome
+->metrics
+->stakeholder
+->data sourcing
+
+Lineage Tracking:
+
+->looking into past to find errors
+->break down previous processes and components
+->by compartmentalization, it becomes easy to find which data came from where and where the error originated
+
+Git + Github:
+
+->version control system
+->source code management
+->collaboration
+
+Git commands:
+
+->git --version- to check version
+->git init- to initialize git and make current directory the root
+->git status- to check the current status
+->git add- to add components into staging area
+->git commit- to save the changes
+->git restore- to undo addition
+->git log- to generate log of all git processes performed
+->git stash- to remove from staging area
+->git help- to generate a helping guide for each command
