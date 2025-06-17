@@ -8,7 +8,6 @@ config = {
 
 consumer = Consumer(config)
 
-# You can add/remove topics here
 topics = ['news', 'sports']
 consumer.subscribe(topics)
 
