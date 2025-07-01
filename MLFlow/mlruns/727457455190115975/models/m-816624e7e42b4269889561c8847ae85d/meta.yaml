@@ -1,0 +1,10 @@
+artifact_location: file:///D:/EXTRA/AILabs/MLFlow/mlruns/727457455190115975/models/m-816624e7e42b4269889561c8847ae85d/artifacts
+creation_timestamp: 1750746531165
+experiment_id: '727457455190115975'
+last_updated_timestamp: 1750746534146
+model_id: m-816624e7e42b4269889561c8847ae85d
+model_type: null
+name: model
+source_run_id: a2f60b809d094b9badfde14a7bb01f9d
+status: 2
+status_message: null

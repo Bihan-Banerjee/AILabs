@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/932753592466322720/3aed923f92a7448399601d1eeb60da20/artifacts
+end_time: 1750745369409
+entry_point_name: ''
+experiment_id: '932753592466322720'
+lifecycle_stage: active
+run_id: 3aed923f92a7448399601d1eeb60da20
+run_name: LogisticRegression_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750745366690
+status: 3
+tags: []
+user_id: bihan

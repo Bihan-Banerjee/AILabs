@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/727457455190115975/3dee1851ceb54bb39499196aa8940a3c/artifacts
+end_time: 1750746536656
+entry_point_name: ''
+experiment_id: '727457455190115975'
+lifecycle_stage: active
+run_id: 3dee1851ceb54bb39499196aa8940a3c
+run_name: Training_Champion_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750746534237
+status: 3
+tags: []
+user_id: bihan

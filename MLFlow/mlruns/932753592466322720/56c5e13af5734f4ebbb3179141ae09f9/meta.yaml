@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/932753592466322720/56c5e13af5734f4ebbb3179141ae09f9/artifacts
+end_time: 1750745377382
+entry_point_name: ''
+experiment_id: '932753592466322720'
+lifecycle_stage: active
+run_id: 56c5e13af5734f4ebbb3179141ae09f9
+run_name: SVM_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750745374708
+status: 3
+tags: []
+user_id: bihan

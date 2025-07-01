@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/727457455190115975/a2f60b809d094b9badfde14a7bb01f9d/artifacts
+end_time: 1750746534228
+entry_point_name: ''
+experiment_id: '727457455190115975'
+lifecycle_stage: active
+run_id: a2f60b809d094b9badfde14a7bb01f9d
+run_name: Training_Champion_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750746531049
+status: 3
+tags: []
+user_id: bihan

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/932753592466322720/51f59f39cd5e41bcb6cadc8e6c56f35b/artifacts
+end_time: 1750745380564
+entry_point_name: ''
+experiment_id: '932753592466322720'
+lifecycle_stage: active
+run_id: 51f59f39cd5e41bcb6cadc8e6c56f35b
+run_name: RandomForest_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750745377395
+status: 3
+tags: []
+user_id: bihan

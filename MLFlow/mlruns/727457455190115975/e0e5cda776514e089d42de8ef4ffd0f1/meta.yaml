@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/EXTRA/AILabs/MLFlow/mlruns/727457455190115975/e0e5cda776514e089d42de8ef4ffd0f1/artifacts
+end_time: 1750746538985
+entry_point_name: ''
+experiment_id: '727457455190115975'
+lifecycle_stage: active
+run_id: e0e5cda776514e089d42de8ef4ffd0f1
+run_name: Training_Champion_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750746536673
+status: 3
+tags: []
+user_id: bihan
